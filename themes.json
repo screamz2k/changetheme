@@ -1,0 +1,34 @@
+{
+    "red": {
+        "zsh": "darkblood",
+        "i3": {
+            "text": "#ff0000"
+        },
+        "polybar": {
+            "foreground": "#dfdfdf",
+            "background": "0",
+            "secondary": "#ff0000"
+        },
+        "spotify": {
+            "theme": "Sleek",
+            "color": "Psycho"
+        },
+        "wallpaper": "red-tree.jpg"
+    },
+    "arctic": {
+        "zsh": "rgm",
+        "i3": {
+            "text": "#04cc9a"
+        },
+        "polybar": {
+            "foreground": "#dfdfdf",
+            "background": "0",
+            "secondary": "#04cc9a"
+        },
+        "spotify": {
+            "theme": "Nord-Spotify",
+            "color": "base"
+        },
+        "wallpaper": "mountains.jpg"
+    }
+}
