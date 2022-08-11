@@ -1,5 +1,7 @@
 # changetheme.py
 A simple script to change themes for you applications and wm easily.
+# Preview
+The script belongs to this reddit [Post](https://www.reddit.com/r/unixporn/comments/wl5vex/i3_i_made_a_script_to_change_themes_quickly/)
 ## Currently supported
 - i3
 - polybar
